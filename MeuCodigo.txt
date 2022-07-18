@@ -1,2 +1,3 @@
 Esse arquivo é apenas para relembrar os comandos do Git.
 Adicionando uma nova linha ao meu arquivo.
+Iniciando o trabalho e um nova branch.
